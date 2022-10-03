@@ -11,4 +11,4 @@ python main.py
 
 The file main.py contains all of the code required. Part of the code is from the github repo showing the example model training, and the other part is added by me to experiment with different types of pruning and different configurations.
 
-The results, summarized, are in three jpeg images named final_output.jpg, final_output1.jpg, final_output2.jpg
+The results, summarized, are in three jpeg images named final_output.jpg, final_output_1.jpg, final_output_2.jpg
